@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=swap');
+
+body {
+    font-family: "DynaPuff", system-ui;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-color: rgb(252, 227, 244);
+}
+
+.title {
+    color: rgb(139, 0, 109);
+    font-weight: bolder;
+}
+
+.subtitle {
+    color: rgb(188, 20, 194);
+    font-weight: bold;
+}
