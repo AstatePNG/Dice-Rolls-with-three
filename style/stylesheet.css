@@ -16,3 +16,10 @@ body {
     color: rgb(188, 20, 194);
     font-weight: bold;
 }
+
+/* Make the renderer overlap on the webpage */
+canvas {
+    position: absolute;
+    top: 0px;
+    z-index: 1;
+}
