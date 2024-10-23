@@ -20,6 +20,7 @@ body {
 /* Make the renderer overlap on the webpage */
 canvas {
     position: absolute;
+    pointer-events: none;
     top: 0px;
     z-index: 1;
 }
